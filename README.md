@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Radhaa!
 
 - 🎓 I’m currently pursuing Computer Science Engineering at IIIT Hyderabad
-- 📫 Ask me anything [Here](radha.r1525@gmail.com):
+- 📫 Ask me anything [Here](https://github.com/Radhaa08/Radhaa08/issues):
 ---
 
 ## 👩‍💻 Languages and Tools:
